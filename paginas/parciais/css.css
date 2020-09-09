@@ -1,6 +1,16 @@
 h1{
     font-family: Helvetica;
-    background-color: green;
+    background-color: #D9D9D9;
     color: red;
 
         }
+
+header{
+    background-color: #D9D9D9;
+    }
+
+footer{
+    background-color: #A8BBBF;
+
+    }
+
